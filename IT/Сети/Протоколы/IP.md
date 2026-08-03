@@ -72,8 +72,8 @@
 	- Приведены актуальное названия полей, ранее некоторые из них назывались иначе;
 	- Никаких других полей в заголовке IPv4 НЕТ!
 
-|Version|IHL|DSCP|ECN| Total Length|
-
+| Version (Версия) | IHL (Длина заголовка) | DSCP () | ECN () | Total Length () |
+| identification () | flags () | Fragment Offset|
 
 ## IPv6
 
