@@ -67,7 +67,8 @@
 **Смежные с ARP протоколы**
 - Протоколы, основанные на ARP:
 	- Reverse Address Resolution Protocol (RARP) - это ==устаревший сетевой протокол, который использовался бездисковыми компьютерами для автоматического получения своего IP-адреса по известному физическому MAC-адресу с помощью специального сервера==;
-	- Inverse Address Resolution Protocol (InARP).
+	- Inverse Address Resolution Protocol (InARP) — это ==сетевой протокол, который позволяет узнать IP-адрес удаленного устройства по его известному физическому (канальному) адресу==.
 - Протоколы, реализующие схожие функции:
 	- SLARP (Serial Line Address Resolution Protocol), под протокол Cisco HDLC;
-	- NDP (Net)
+	- NDP (Neighbor Discovery Protocol), под протокол ICMPv6
+
