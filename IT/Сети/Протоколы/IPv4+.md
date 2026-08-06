@@ -63,6 +63,7 @@
 - [[IP+]]
 - [[IPv6+]]
 - [[ARP+]]
+- [[DHCP+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
