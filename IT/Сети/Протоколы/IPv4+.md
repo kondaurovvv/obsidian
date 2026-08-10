@@ -65,6 +65,7 @@
 - [[ARP+]]
 - [[DHCP+]]
 - [[ICMP+]]
+- [[NAT+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 

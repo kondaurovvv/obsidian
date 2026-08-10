@@ -280,6 +280,7 @@ Broadcast 192.168.17.255  = 11000000.10101000.00010001.1 | 1111111
 - [[ARP+]]
 - [[DHCP+]]
 - [[ICMP+]]
+- [[NAT+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 

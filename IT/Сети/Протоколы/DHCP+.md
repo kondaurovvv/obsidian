@@ -290,6 +290,7 @@
 - [[IPv6+]]
 - [[ARP+]]
 -  [[ICMP+]]
+- [[NAT+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
