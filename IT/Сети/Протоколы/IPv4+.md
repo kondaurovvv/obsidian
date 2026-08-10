@@ -64,6 +64,7 @@
 - [[IPv6+]]
 - [[ARP+]]
 - [[DHCP+]]
+- [[ICMP+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 

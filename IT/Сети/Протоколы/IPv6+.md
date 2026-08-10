@@ -4,6 +4,8 @@
 - [[IPv4+]]
 - [[ARP+]]
 - [[DHCP+]]
+- [[ICMP+]]
+
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
 #it #сети #протоколы #ipv6

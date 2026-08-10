@@ -82,7 +82,8 @@
 - [[IP+]]
 - [[IPv4+]]
 - [[IPv6+]]
-- - [[DHCP+]]
+- [[DHCP+]]
+- [[ICMP+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
