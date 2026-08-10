@@ -35,7 +35,14 @@
 	- А некоторым (например, ESP) после порчи IP-адресов вообще ничего уже не помогает.
 - NAT нарушает принцип связности "от края до края".
 
-#### 
+#### NAPT/PAT/NAT Overload/Masquerading
+- Для TCP и UDP есть технология, позволяющая экономить публичные IP-адреса;
+	- Network address and port translation (RFC 2663);
+	- Port address translation (cisco);
+	- IP masquerading, NAT overload, Many-to-one NAT.
+- Подменяются не IP-адреса, а пары IP+порт (сокеты);
+	- IP-адрес у подмененных сокетов может быть один;
+	- Гарантии сохранности порта при этом нет.
 
 - [[IP+]]
 - [[IPv4+]]
