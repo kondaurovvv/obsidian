@@ -167,6 +167,10 @@ Addresses:  2a02:6b8:a::a
 	- _xmpp-server._tcp.example.com. -> 0 5 5269 xmpp.example.com;
 	- _xmpp-server._tcp.example.com. -> 20 0 5269 backup_xmpp.example.com;
 
+#### Запись серверов имен
+- Запись типа NS (Name Server):
+	- Указывает адрес DNS-серверов, отвечающих за зону.
+- 
 
 #### Можно обойтись и без DNS
 - Можно указывать адреса в URL в квадратных скобках:
