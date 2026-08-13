@@ -133,6 +133,29 @@ Addresses:  2a02:6b8:a::a
 |**RDATA**|**Данные записи**|Переменная (зависит от RDLENGTH)|Непосредственно данные: IP-адрес (для A/AAAA), имя сервера (для CNAME/NS), приоритет и хост (для MX) и т.д.|
 ![[Структура_DNS_WS_пакета.png|900]]
 
+#### Типы записей DNS
+- Каждая DNS запись (Resource Record, RR) имеет:
+	- Тип записи - для чего предназначена запись;
+	- Класс записи - в каких сетях используется (IN - Интернет)
+- Типы записей для IP-адресов:
+	- A - IPv4 адрес компьютер;
+	- AAAA - IPv6 адрес компьтера.
+
+#### DNS псевдонимы
+- Запись типа CNAME (Canonical Name Record/каноническая запись имени):
+	- Определяет псевдоним для другого доменного имени;
+	- ftp.asozykin.ru -> www.asozykin.ru
+- Альтернативный способ:
+	- Задать несколько A записей для одного IP-адреса.
+
+#### Адреса почтового сервера
+- Нужно отправить почту на адрес networks@gmail.com:
+- Запись типа MX (Mail eXchange):
+	- 5 gmail-smtp-in.l.google.com;
+	- 10 alt1.gmail.smtp-in.l.google.com
+	- 20 alt2.gmail.smtp-in.l.google.com
+	- 30 alt3.gmail.smtp-in.l.google.com
+	- 40 alt4.gmail.smtp-in.l.google.com
 
 
 
