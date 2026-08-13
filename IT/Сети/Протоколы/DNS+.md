@@ -157,6 +157,15 @@ Addresses:  2a02:6b8:a::a
 	- 30 alt3.gmail.smtp-in.l.google.com
 	- 40 alt4.gmail.smtp-in.l.google.com
 
+#### Адреса сетевых сервисов
+- Для некоторых сервисов можно задавать не только IP-адреса, но и порты:
+	- Jabber;
+	- CIP;
+	- Kerberos.
+- Запись типа SRV(Service record):
+	- _сервис._протокол.имя. -> приоритет вес порт имя;
+	- _xmpp-server._tcp.example.com. -> 0 5 5269 xmpp.example.com;
+	- _xmpp-server._tcp.example.com. -> 20 0 5269 backup_xmpp.example.com;
 
 
 #### Можно обойтись и без DNS
