@@ -271,7 +271,7 @@
 - [[IPv4+]]
 - [[ARP+]]
 - [[DHCP+]]
-- [[ICMP+]]
+- [[ICMPv4+]]
 - [[NAT+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**

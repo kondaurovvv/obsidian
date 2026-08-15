@@ -82,7 +82,7 @@
 - [[IPv4+]]
 - [[IPv6+]]
 - [[DHCP+]]
-- [[ICMP+]]
+- [[ICMPv4+]]
 - [[NAT+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**

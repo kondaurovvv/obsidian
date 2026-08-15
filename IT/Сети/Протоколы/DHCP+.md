@@ -288,7 +288,7 @@
 - [[IPv4+]]
 - [[IPv6+]]
 - [[ARP+]]
--  [[ICMP+]]
+-  [[ICMPv4+]]
 - [[NAT+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
