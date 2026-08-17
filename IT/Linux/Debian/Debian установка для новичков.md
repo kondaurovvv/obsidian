@@ -1,7 +1,7 @@
 #### Официальный сайт
-- [Debian](https://www.debian.org/)
-- [Введение в Debian](https://www.debian.org/intro/index#software)
-- [Загрузка Debian](https://www.debian.org/distrib/)
+- [Debian](https://www.debian.org/index.en.html)
+- [Введение в Debian](https://www.debian.org/intro/index.en.html)
+- [Загрузка Debian](https://www.debian.org/distrib/index.en.html)
 - ![[C1.png|900]]
 #### Установка
 ![[D1.png|900]]
