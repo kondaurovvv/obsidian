@@ -104,3 +104,10 @@
 	- L (on-link): можно ли трактовать как on-link другие адреса в этой сети;
 	- A (autonomous address-configuration): префикс можно использовать для SLAAC.
 - Получившие RA с PI узлы генерируют действительный адрес в сети.
+
+#### Router Advertisement
+- Поля в сообщении Router Advertisement
+	- M (Managed address configuration): необходимо получить адрес по DHCP;
+	- O (Other configuration): необходимо получить конфигурацию по DHCP;
+	- Router Lifetime: время в секундах, в течение которого узлы должны трактовать маршрутизатор как шлюз по умолчанию;
+	- Reachable Time и Retrans Timer: параметры NUD.
