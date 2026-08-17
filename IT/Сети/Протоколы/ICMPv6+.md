@@ -96,3 +96,11 @@
 #### Router Solicitation/Advertisement
 - Маршрутизатор рассылают по расписанию RA с указанием используемых в канале параметров IPv6;
 - Узлы могут запросить внеплановую рассылку RA с помощью RS.
+
+#### Prefix information и Stateless Address Autoconfiguration
+- RA использует опцию Prefix information для указания доступных сетей:
+	- Type 3, Lenght 4 (32 байта);
+	- Preferred/Valid Lifetime задается в секундах, Prefix Length - от 0 до 128;
+	- L (on-link): можно ли трактовать как on-link другие адреса в этой сети;
+	- A (autonomous address-configuration): префикс можно использовать для SLAAC.
+- Получившие RA с PI узлы генерируют действительный адрес в сети.
