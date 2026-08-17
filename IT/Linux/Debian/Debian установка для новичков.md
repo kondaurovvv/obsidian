@@ -1,5 +1,6 @@
-#### Скачать можно [тут](https://www.debian.org/)
-
+#### Официальный сайт
+- [Debian](https://www.debian.org/)
+- [Загрузка Debian](https://www.debian.org/distrib/)
 #### Установка
 ![[D1.png|900]]
 Выбираем **"Graphical install"** -  красивый интерфейс с мышкой.
