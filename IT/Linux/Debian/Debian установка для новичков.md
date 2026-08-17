@@ -1,6 +1,8 @@
 #### Официальный сайт
 - [Debian](https://www.debian.org/)
+- [Введение в Debian](https://www.debian.org/intro/index#software)
 - [Загрузка Debian](https://www.debian.org/distrib/)
+- ![[C1.png|900]]
 #### Установка
 ![[D1.png|900]]
 Выбираем **"Graphical install"** -  красивый интерфейс с мышкой.
