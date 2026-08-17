@@ -2,8 +2,11 @@
 - [Debian](https://www.debian.org/index.en.html)
 - [Введение в Debian](https://www.debian.org/intro/index.en.html)
 - [Загрузка Debian](https://www.debian.org/distrib/index.en.html)
-- ![[C1.png|900]]
-#### Установка
+
+Если компьютер подключен к интернету выбираем 64-bit PC netinst iso.
+Если компьютер не подключен к интернету скачиваем - 64-bit PC DVD-1 iso.![[C1.png|900]]
+
+#### Установка для новичков
 ![[D1.png|900]]
 Выбираем **"Graphical install"** -  красивый интерфейс с мышкой.
 
