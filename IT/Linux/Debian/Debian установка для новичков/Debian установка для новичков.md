@@ -147,6 +147,8 @@
 Жмем **"Continue"**.
 
 ![[D23.png|900]]
+Выбираем **"Debian desktop environment"**, **"GNOME"**, **"SSH server"**, **"standard system utilities"**.
+Жмем **"Continue"**.
 ##### Окружения рабочего стола (Desktop Environments)
 
 | Название                       | Описание                                                                          | Требования к ресурсам     | Для кого                                                   |
