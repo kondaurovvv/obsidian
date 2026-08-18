@@ -277,7 +277,7 @@ Addresses:  2a02:6b8:a::a
 - [[IP+]]
 - [[IPv4+]]
 - [[IPv6+]]
-- [[DHCP+]]
+- [[DHCPv4+]]
 - [[ICMPv4+]]
 - [[NAT+]]
 
