@@ -101,3 +101,16 @@
 | **RECONFIGURE**         | **Перенастройка**           | 10  | Сервер отправляет клиенту, чтобы инициировать процесс обновления параметров (клиент должен ответить `RENEW` или `INFORMATION-REQUEST`) [](https://support.huawei.com/enterprise/zh/doc/EDOC1100174722/3eff668b#1)[](https://support.huawei.com/enterprise/en/doc/EDOC1100174721/3eff668b/dhcpv6#1).                                                    |
 | **RELAY-FORW**          | **Пересылка ретранслятора** | 12  | Отправляется ретранслятором (relay agent) серверу для пересылки сообщения от клиента [](https://support.huawei.com/enterprise/zh/doc/EDOC1100335696/d8e17d86#2)[](https://support.huawei.com/enterprise/zh/doc/EDOC1100174722/3eff668b#1)[](https://support.huawei.com/enterprise/en/doc/EDOC1100174721/3eff668b/dhcpv6#1).                            |
 | **RELAY-REPL**          | **Ответ ретранслятора**     | 13  | Отправляется сервером ретранслятору для доставки ответа клиенту [](https://support.huawei.com/enterprise/zh/doc/EDOC1100335696/d8e17d86#2)[](https://support.huawei.com/enterprise/zh/doc/EDOC1100174722/3eff668b#1)[](https://support.huawei.com/enterprise/en/doc/EDOC1100174721/3eff668b/dhcpv6#1).                                                 |
+#### Запрос клиентом адреса
+- Stateful:
+	- **SOLICIT**;
+	- **ADVERTISE**;
+	- **REQUEST**;
+	- **REPLY**.
+- Rapid commit:
+	- **SOLICIT**;
+	- **REPLY**.
+
+#### Prefix Delegation
+- RFC 3633 описывает запрос маршрутизатором префикса;
+	- Используется новая опция DHCP Prefix.
