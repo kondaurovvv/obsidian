@@ -4,17 +4,27 @@
 - [Загрузка Fedora](https://fedoraproject.org/workstation/download/)
 
 Скачиваем Fedora Workstation 44.
-![[f-0.png|900]]
+![[F-0.png|900]]
 
-![[f-1.png|900]]
+#### Установка
+![[F-1.png|900]]
+Выбираем **"Test this media & start Fedora-Workstation-Live"** -  красивый интерфейс с мышкой.
+Жмем **"Enter"**.
 
-![[f-2.png|900]]
+![[F-2.png|900]]
+Жмем **"Install Fedora Linux..."**.
 
 ![[f-3.png|900]]
+Выбираем язык и раскладку клавиатуры.
+Жмем **"Next"**.
 
 ![[f-4.png|900]]
+Выбираем диск для установки и выбираем **"How would you like to install"?**.
+Жмем **"Next"**.
+
 
 ![[f-5.png|900]]
+Жмем **"Next"**.
 
 ![[f-6.png|900]]
 
