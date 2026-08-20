@@ -70,9 +70,9 @@ name:x:1000:1000:Bulka,,,:/home/name:/bin/bash
 ```
 
 root:x:0:0:root:/root:/bin/bash
-root - псевдоним
-x - когда то хранился пароль но поле убирать не стали
-0 - UID (User identifer)
-0 - GIT ()
-root - комментарий
-/root:/bin/bash - каталог пользователя 
+- root - псевдоним
+- x - признак того, что пароль зашифрован и хранится в отдельном файле `/etc/shadow`.
+- 0 - UID (User identifer)
+- 0 - GIT (Group IDentifier)
+- root - комментарий
+- /root:/bin/bash - каталог пользователя 
