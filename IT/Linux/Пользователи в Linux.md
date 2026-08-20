@@ -70,10 +70,10 @@ name:x:1000:1000:Bulka,,,:/home/name:/bin/bash
 ```
 
 root:x:0:0:root:/root:/bin/bash
-- root - псевдоним
-- x - признак того, что пароль зашифрован и хранится в отдельном файле `/etc/shadow`.
-- 0 - UID (User identifer)
-- 0 - GIT (Group IDentifier)
-- root - комментарий
-- /root - каталог пользователя 
-- /bin/bash - 
+- root - псевдоним (логин);
+- x - признак того, что пароль зашифрован и хранится в отдельном файле `/etc/shadow`;
+- 0 - UID (User identifer);
+- 0 - GIT (Group IDentifier);
+- root - комментарий;
+- /root - каталог пользователя ;
+- /bin/bash - командная оболочка (shell), которая запускается при входе в систему.
