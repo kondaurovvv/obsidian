@@ -72,7 +72,7 @@ name:x:1000:1000:Bulka,,,:/home/name:/bin/bash
 root:x:0:0:root:/root:/bin/bash
 root - псевдоним
 x - когда то хранился пароль но поле убирать не стали
-0 - UID ()
+0 - UID (User identifer)
 0 - GIT ()
-root
-/root:/bin/bash - 
+root - комментарий
+/root:/bin/bash - каталог пользователя 
