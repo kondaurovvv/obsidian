@@ -75,4 +75,5 @@ root:x:0:0:root:/root:/bin/bash
 - 0 - UID (User identifer)
 - 0 - GIT (Group IDentifier)
 - root - комментарий
-- /root:/bin/bash - каталог пользователя 
+- /root - каталог пользователя 
+- /bin/bash - 
