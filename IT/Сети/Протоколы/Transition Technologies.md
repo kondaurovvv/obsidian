@@ -10,12 +10,15 @@
 
 **Как выглядит на роутере Cisco:**
 
-text
+```text
+
 
 interface GigabitEthernet0/0
  ip address 192.168.1.1 255.255.255.0
  ipv6 address 2001:0DB8:1111:1::1/64
  ipv6 enable
+```
+
 
 **Компьютер:** получает и IPv4 (по DHCP), и IPv6 (по SLAAC или DHCPv6).
 
