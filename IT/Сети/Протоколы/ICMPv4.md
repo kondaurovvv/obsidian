@@ -63,6 +63,7 @@ TCP — большинство TCP-реализаций выставляют DF 
 - [[ICMPv6]]
 - [[NAT]]
 - [[DNS]]
+- [[Transition Technologies]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 

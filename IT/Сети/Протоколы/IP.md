@@ -303,6 +303,7 @@ Broadcast 192.168.17.255  = 11000000.10101000.00010001.1 | 1111111
 - [[ICMPv6]]
 - [[NAT]]
 - [[DNS]]
+- [[Transition Technologies]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
