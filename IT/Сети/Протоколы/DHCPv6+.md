@@ -160,3 +160,5 @@
 - [[DNS+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
+
+#it #сети #протоколы #dhcpv6
