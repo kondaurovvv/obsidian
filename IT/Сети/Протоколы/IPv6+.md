@@ -321,13 +321,18 @@ Teredo
 - Fragment Header использует 32-битный Identification вместо 16-битного в IPv4, решая проблему перемешивания фрагментов на высокоскоростных каналах;
 - Нефрагментируемая часть пакета (фиксированный заголовок + Hop-by-Hop + Routing) дублируется в каждом фрагменте для корректной транзитной обработки;
 
+- [[ARP+]]
+- [[MAC+]]
 - [[IP+]]
 - [[IPv4+]]
-- [[ARP+]]
+- [[IPv6+]]
 - [[DHCPv4+]]
+- [[DHCPv6+]]
 - [[ICMPv4+]]
+- [[ICMPv6+]]
 - [[NAT+]]
+- [[DNS+]]
 
-**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
+**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
 #it #сети #протоколы #ipv6

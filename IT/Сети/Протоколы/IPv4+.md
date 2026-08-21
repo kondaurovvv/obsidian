@@ -72,13 +72,18 @@
 - 4G/LTE уже работает на IPv6 нативно; если вы пользуетесь мобильным интернетом, вы используете IPv6 прямо сейчас;
 - IoT и Internet of Everything требуют адресов в масштабах, принципиально недостижимых для 32-битного пространства IPv4.
 
-- [[IP+]]
-- [[IPv6+]]
 - [[ARP+]]
+- [[MAC+]]
+- [[IP+]]
+- [[IPv4+]]
+- [[IPv6+]]
 - [[DHCPv4+]]
+- [[DHCPv6+]]
 - [[ICMPv4+]]
+- [[ICMPv6+]]
 - [[NAT+]]
+- [[DNS+]]
 
-**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
+**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
 #it #сети #протоколы #ipv4

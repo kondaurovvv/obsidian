@@ -133,3 +133,17 @@
 - Флаги M и O в Router Advertisement управляют источником настроек: M=1 — адрес через DHCPv6, O=1 — только опции через DHCPv6, оба =0 — чистый SLAAC;
 - Отказоустойчивость шлюза в IPv6 реализуется штатно через Subnet Router Anycast + NUD за ~5 секунд, без необходимости в HSRP/VRRP;
 - SEND с CGA-адресами позволяет подписывать сообщения NDP без предварительной настройки IPsec между всеми парами узлов;
+
+- [[ARP+]]
+- [[MAC+]]
+- [[IP+]]
+- [[IPv4+]]
+- [[IPv6+]]
+- [[DHCPv4+]]
+- [[DHCPv6+]]
+- [[ICMPv4+]]
+- [[ICMPv6+]]
+- [[NAT+]]
+- [[DNS+]]
+
+**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**

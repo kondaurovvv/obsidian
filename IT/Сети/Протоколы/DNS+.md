@@ -274,13 +274,18 @@ Addresses:  2a02:6b8:a::a
 - EDNS0 критичен для IPv6: десять AAAA-записей занимают 160 байт только на адреса, что быстро превышает лимит стандартной UDP-датаграммы DNS в 576 байт;
 - В Windows механизм ipv6-literal.net позволяет использовать IPv6-адреса в программах без нативной поддержки, заменяя двоеточия на дефисы и добавляя суффикс .ipv6-literal.net.
 
+- [[ARP+]]
+- [[MAC+]]
 - [[IP+]]
 - [[IPv4+]]
 - [[IPv6+]]
 - [[DHCPv4+]]
+- [[DHCPv6+]]
 - [[ICMPv4+]]
+- [[ICMPv6+]]
 - [[NAT+]]
+- [[DNS+]]
 
-**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
+**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
 #it #сети #протоколы #arp

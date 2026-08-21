@@ -284,13 +284,18 @@
 - DHCP Snooping на коммутаторе — основной способ защиты от ложных DHCP-серверов: порты делятся на доверенные и недоверенные, Offer с недоверенного порта сбрасывается;
 - DHCP Relay позволяет обслуживать несколько подсетей одним централизованным сервером, преобразуя broadcast-запросы клиентов в unicast до сервера.
 
+- [[ARP+]]
+- [[MAC+]]
 - [[IP+]]
 - [[IPv4+]]
 - [[IPv6+]]
-- [[ARP+]]
+- [[DHCPv4+]]
+- [[DHCPv6+]]
 - [[ICMPv4+]]
+- [[ICMPv6+]]
 - [[NAT+]]
+- [[DNS+]]
 
-**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
+**СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
 #it #сети #протоколы #dhcp
