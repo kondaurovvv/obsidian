@@ -325,7 +325,6 @@ Teredo
 - [[MAC+]]
 - [[IP+]]
 - [[IPv4+]]
-- [[IPv6+]]
 - [[DHCPv4+]]
 - [[DHCPv6+]]
 - [[ICMPv4+]]

@@ -147,4 +147,4 @@
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
-#it #сети #протоколы #icmpv4
+#it #сети #протоколы #icmpv6
