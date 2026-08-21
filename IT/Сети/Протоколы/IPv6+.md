@@ -326,7 +326,7 @@ Teredo
 - [[IP+]]
 - [[IPv4+]]
 - [[DHCPv4]]
-- [[DHCPv6+]]
+- [[DHCPv6]]
 - [[ICMPv4+]]
 - [[ICMPv6+]]
 - [[NAT+]]

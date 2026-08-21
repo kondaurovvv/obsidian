@@ -85,7 +85,7 @@
 - [[IPv4+]]
 - [[IPv6+]]
 - [[DHCPv4]]
-- [[DHCPv6+]]
+- [[DHCPv6]]
 - [[ICMPv4+]]
 - [[ICMPv6+]]
 - [[NAT+]]

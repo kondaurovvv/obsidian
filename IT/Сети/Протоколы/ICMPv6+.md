@@ -140,7 +140,7 @@
 - [[IPv4+]]
 - [[IPv6+]]
 - [[DHCPv4]]
-- [[DHCPv6+]]
+- [[DHCPv6]]
 - [[ICMPv4+]]
 - [[NAT+]]
 - [[DNS+]]
