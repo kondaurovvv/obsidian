@@ -60,11 +60,10 @@ TCP — большинство TCP-реализаций выставляют DF 
 - [[IPv6+]]
 - [[DHCPv4+]]
 - [[DHCPv6+]]
-- [[ICMPv4+]]
 - [[ICMPv6+]]
 - [[NAT+]]
 - [[DNS+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
-#it #сети #протоколы #icmp
+#it #сети #протоколы #icmpv4

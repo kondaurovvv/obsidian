@@ -142,10 +142,9 @@
 - [[DHCPv4+]]
 - [[DHCPv6+]]
 - [[ICMPv4+]]
-- [[ICMPv6+]]
 - [[NAT+]]
 - [[DNS+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
-#it #сети #протоколы #icmpv6
+#it #сети #протоколы #icmpv4

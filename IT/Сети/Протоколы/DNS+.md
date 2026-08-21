@@ -284,8 +284,7 @@ Addresses:  2a02:6b8:a::a
 - [[ICMPv4+]]
 - [[ICMPv6+]]
 - [[NAT+]]
-- [[DNS+]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
-#it #сети #протоколы #arp
+#it #сети #протоколы #dns
