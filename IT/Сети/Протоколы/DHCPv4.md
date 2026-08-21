@@ -285,15 +285,15 @@
 - DHCP Relay позволяет обслуживать несколько подсетей одним централизованным сервером, преобразуя broadcast-запросы клиентов в unicast до сервера.
 
 - [[ARP]]
-- [[MAC+]]
-- [[IP+]]
-- [[IPv4+]]
-- [[IPv6+]]
+- [[MAC]]
+- [[IP]]
+- [[IPv4]]
+- [[IPv6]]
 - [[DHCPv6]]
-- [[ICMPv4+]]
-- [[ICMPv6+]]
-- [[NAT+]]
-- [[DNS+]]
+- [[ICMPv4]]
+- [[ICMPv6]]
+- [[NAT]]
+- [[DNS]]
 
 **СПАСИБО ЗА ОБУЧЕНИЯ [networkeducation](https://www.networkeducation.ru/video/)!**
 
